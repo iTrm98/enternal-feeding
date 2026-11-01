@@ -41,7 +41,7 @@ No installation needed.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/iTrm98/feeding.git
+   git clone https://github.com/iTrm98/enteral-feeding.git
    ```
 2. Open `index.html` in any modern browser.
 
@@ -50,7 +50,7 @@ An internet connection is required, because Tailwind CSS, Chart.js, and the Inte
 ## Project Structure
 
 ```
-feeding/
+enteral-feeding/
 ├── index.html    # Page layout and structure
 ├── style.css     # Custom styles and animations
 ├── script.js     # Formula and modular data, calculation logic, and UI behavior
